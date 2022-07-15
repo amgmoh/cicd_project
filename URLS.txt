@@ -1,6 +1,5 @@
 [URL01]:https://github.com/amgmoh/cicd_project
-[URL02]:http://udapeople-0d9f560.s3-website-us-east-1.amazonaws.com/
+[URL02]:http://udapeople-22e4166.s3-website-us-east-1.amazonaws.com
 [URL03]:https://d1p43pv1zd82c5.cloudfront.net
-[URL04]:http://34.238.235.58:3030/api/status
-	http://ec2-34-238-235-58.compute-1.amazonaws.com:3030/api/status
+[URL04]:http://18.212.36.126:3030/api/status
 [URL05]:http://44.206.242.217:9090
